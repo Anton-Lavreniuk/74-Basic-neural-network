@@ -1,0 +1,3 @@
+C:/Users/Anton/CLionProjects/74-Basic-neural-network/cmake-build-debug/CMakeFiles/BNN.dir
+C:/Users/Anton/CLionProjects/74-Basic-neural-network/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anton/CLionProjects/74-Basic-neural-network/cmake-build-debug/CMakeFiles/rebuild_cache.dir
